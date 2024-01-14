@@ -1,2 +1,2 @@
 # bingx
-Bingx - instruments
+Парсер стакана Bingx по API и доавбеление в БД
